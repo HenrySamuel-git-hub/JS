@@ -1,0 +1,22 @@
+#traffic {
+    width: 120px;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px auto;
+  }
+  
+  .light {
+    width: 80px;
+    height: 80px;
+    margin: 15px auto;
+    border-radius: 50%;
+    background-color: gray;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
